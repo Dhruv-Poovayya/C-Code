@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1720185516 source:f:\dtri_training\prg's\prg_27_8\prg_27_8.c
+	<stdio.h>
+	<stdlib.h>
+
+1720185549 source:f:\dtri_training\assignment_prg's\prg_27_8\prg_27_8.c
+	<stdio.h>
+	<stdlib.h>
+

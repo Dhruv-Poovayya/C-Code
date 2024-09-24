@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1720441426 source:f:\dtri_training\prg's\prg_36_1\prg_36_1.c
+	<stdio.h>
+
+1723553512 source:f:\dtri_training\assignment_prg's\prg_36\prg_36_1.c
+	<stdio.h>
+	<math.h>
+

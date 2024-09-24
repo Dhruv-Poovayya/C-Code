@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:f:\dtri_training\assignment_prg's\prg_70_152\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1722822925 source:f:\dtri_training\assignment_prg's\prg_70_152\prg_70_152.c
+	<stdio.h>
+	<stdarg.h>
+

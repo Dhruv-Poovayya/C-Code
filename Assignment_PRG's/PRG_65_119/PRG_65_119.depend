@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1722170875 source:f:\dtri_training\assignment_prg's\prg_65_119\prg_65_119.c
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+	<string.h>
+

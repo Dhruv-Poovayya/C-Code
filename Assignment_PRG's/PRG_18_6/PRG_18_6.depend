@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584205420 source:f:\dtri_training\prg's\prg_18_6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1720098138 source:f:\dtri_training\prg's\prg_18_6\prg_18_6.c
+	<stdio.h>
+

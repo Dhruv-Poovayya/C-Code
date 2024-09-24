@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1721053810 source:f:\dtri_training\prg's\prg_60\prg_60.c
+	<stdio.h>
+	<stdbool.h>
+
+1721053968 source:f:\dtri_training\assignment_prg's\prg_60\prg_60.c
+	<stdio.h>
+
